@@ -1,0 +1,101 @@
+fileFormatVersion: 2
+guid: f663274dfb47e5b48b1cab4b3aa1a411
+timeCreated: 1435846665
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Billboard_Billboard_Billboard_space
+    100004: Billboard_Billboard_Black
+    100006: Billboard_Billboard_Silver
+    100008: Billboard_Billboard_stand_1
+    100010: Billboard_Billboard_stand_2
+    100012: Billboard_Billboard_White
+    400000: //RootNode
+    400002: Billboard_Billboard_Billboard_space
+    400004: Billboard_Billboard_Black
+    400006: Billboard_Billboard_Silver
+    400008: Billboard_Billboard_stand_1
+    400010: Billboard_Billboard_stand_2
+    400012: Billboard_Billboard_White
+    2300000: Billboard_Billboard_Billboard_space
+    2300002: Billboard_Billboard_Black
+    2300004: Billboard_Billboard_Silver
+    2300006: Billboard_Billboard_stand_1
+    2300008: Billboard_Billboard_stand_2
+    2300010: Billboard_Billboard_White
+    3300000: Billboard_Billboard_Billboard_space
+    3300002: Billboard_Billboard_Black
+    3300004: Billboard_Billboard_Silver
+    3300006: Billboard_Billboard_stand_1
+    3300008: Billboard_Billboard_stand_2
+    3300010: Billboard_Billboard_White
+    4300000: Billboard_Billboard_Billboard_space
+    4300002: Billboard_Billboard_Black
+    4300004: Billboard_Billboard_Silver
+    4300006: Billboard_Billboard_stand_1
+    4300008: Billboard_Billboard_stand_2
+    4300010: Billboard_Billboard_White
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
